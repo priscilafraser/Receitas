@@ -1,0 +1,13 @@
+de acordo com as ideias que nos tivemosforam criados 4 paginas na nossa 
+aplicação. Foi feito um menu.
+
+nos colocamos um link bem no inicio da aplicação p ficar bem visivel p
+uma pessoa que esteja precisando de ajuda. Entao a pessoa clica na
+aplicação e o link ja leva direto p whatsapp com uma mensagem de ajuda
+pra policia.
+
+dai colocamos uma foto de uma instituição que ajuda mulheres nessa
+situação.
+
+E no final tem um outro link que leva pros depoimentos de vitimas pra que
+as pessoas pudessem ter uma visão do nosso trabalho.
